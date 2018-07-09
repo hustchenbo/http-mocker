@@ -1,0 +1,29 @@
+{
+    "success": {
+        "response_code": "Success"
+    },
+    "v1-wx-info": {
+        "openid": "openid12345657",
+        "count": 4
+    },
+    "v1-audio-transcode": {
+        "response_code": "Success",
+        "result": {
+            "targetUrl": "oZkIE5kmBUsq7-XwlINsRVDCpFKg"
+        }
+    },
+    "v1-audio-quality": {
+        "response_code": "Success",
+        "result": {
+            "code":"WAV_OK",
+            "message": "The wav is valid."
+        }
+    },
+    "v1-audio-speaker-1v1-wx": {
+        "response_code": "Success",
+        "result": {
+            "speaker_id": "oZkIE5kmBUsq7-XwlINsRVDCpFKg",
+            "score": 76
+        }
+    }
+}
