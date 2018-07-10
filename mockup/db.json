@@ -3,8 +3,15 @@
         "response_code": "Success"
     },
     "v1-wx-info": {
-        "openid": "openid12345657",
-        "count": 4
+        "openid": "10017",
+        "session_key": "30.80",
+        "errcode": 1,
+        "errmsg": "errmsg",
+        "count": 4,
+        "text": {
+            "id": "1",
+            "content": "劝君更尽一杯酒,西出阳关无故人"
+        }
     },
     "v1-audio-transcode": {
         "response_code": "Success",
@@ -15,7 +22,7 @@
     "v1-audio-quality": {
         "response_code": "Success",
         "result": {
-            "code":"WAV_OK",
+            "code": "WAV_OK",
             "message": "The wav is valid."
         }
     },
